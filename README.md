@@ -1,4 +1,4 @@
-# Live Project/Internship
+# Internship
 ## Introduction
 On my two week Live Project/Internship with the Tech Academy I worked with a team on the front end of a LifeStyle Website Project where we created webpages that represented different hobbies and (of course) lifestyles. We were tasked to build these webpages with the following technologies: HTML, CSS, Bootstrap, JavaScript, Axios, Git and AzureDevOps. 
 In my case I took up the task of building a page centered around 'food and recipes'. It was an awesome experience using everything I've learned here and building a working, clean site that I could be proud of. 
